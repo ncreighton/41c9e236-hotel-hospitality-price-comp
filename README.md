@@ -1,2 +1,28 @@
-# 41c9e236-hotel-hospitality-price-comp
-What if have the information you need right in your browser took minutes instead of hours?  Works directly in Chrome, Edge, and Brave — no switching apps required. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Hotel &amp; Hospitality Price Comparison And Deal Finder — fully configured and ready to use - One-click activatio
+# Hotel & Hospitality Price Comparison and Deal Finder Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ4gz4ePgaU3lmbzScZM3l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ4gz4ePgaU3lmbzScZM3l)
+
